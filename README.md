@@ -1,16 +1,16 @@
-# PlaceDE Bot
-Fork von PlaceNL Bot. Thanks guys!  
-Der Bot für PlaceDE! Dieser Bot holt automatisch alle paar Minuten [Pläne](https://github.com/placeDE/pixel), um zu verhindern, dass Bots miteinander kollidieren.
+# PlaceFR Bot
+Fork de PlaceDE Bot.
+Le bot pour PlaceFR ! Ce bot récupère automatiquement [plans](https://github.com/parats15/pixel) toutes les quelques minutes pour empêcher les bots d'entrer en collision les uns avec les autres.
 
-## Installationsanweisungen
+## Instructions d'installation
 
-Überprüfe, dass gerade neue Pixel plaziert werden können und dies nicht auf Cooldown ist
+Vérifiez que de nouveaux pixels peuvent être placés et que ce n'est pas sur le temps de recharge
 
-1. Installiere die Browsererweiterung [Tampermonkey](https://www.tampermonkey.net/) oder [Violentmonkey (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/).
-2. Klicke auf diesen Link: [https://github.com/PlaceDE/Bot/raw/main/placedebot.user.js](https://github.com/PlaceDE/Bot/raw/main/placedebot.user.js). Wenn alles gut geht, bietet Tampermonkey an, ein Benutzerskript zu installieren. Klicke auf **Installieren**.
-3. Lade den **r/place** Tab neu. Wenn alles gut gegangen ist, sollte "Abfrage des Zugriffstokens..." oben rechts auf dem Bildschirm zu sehen sein. Der Bot ist nun aktiv und wird diese Benachrichtigungen oben rechts für laufende Informationen nutzen.
+1. Installez l'extension de navigateur [Tampermonkey](https://www.tampermonkey.net/) ou [Violentmonkey (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) .
+2. Cliquez sur ce lien : [https://github.com/parats15/Bot/raw/main/placedebot.user.js](https://github.com/PlaceDE/Bot/raw/main/placedebot.user .js). Si tout se passe bien, Tampermonkey vous proposera d'installer un script utilisateur. Cliquez sur **Installer**.
+3. Rechargez l'onglet **r/place**. Si tout s'est bien passé, vous devriez voir "Demander un jeton d'accès..." en haut à droite de l'écran. Le bot est maintenant actif et utilisera ces notifications en haut à droite pour des informations en cours.
 
-## Schwachstellen des Bots
+## Faiblesses des bots
 
-- Der Bot aktualisiert die Cooldown Nachricht nicht, so dass es aussieht als ob noch ein Pixel platziert werden kann. Der Bot hat das Pixel jedoch schon platziert und wartet nun auf den Cooldown.
-- Der Bot berücksichtigt eine bestehende Abklingzeit nicht und geht daher davon aus, dass man sofort einen Pixel platzieren kann, wenn man **r/place** öffnet. Im schlimmsten fall gehen so 5 Minuten verloren
+- Le bot ne met pas à jour le message de temps de recharge, il semble donc qu'il reste encore un pixel à placer. Cependant, le bot a déjà placé le pixel et attend maintenant le temps de recharge.
+- Le bot ne tient pas compte d'un temps de recharge existant et suppose donc que vous pouvez placer un pixel immédiatement lorsque vous ouvrez **r/place**. Dans le pire des cas, 5 minutes sont perdues 
