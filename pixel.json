@@ -1,0 +1,260 @@
+{
+    "version": 1,
+    "structures": {
+        "rplacede_schriftzug": {
+            "priority": 3,
+            "pixels": [
+                {
+                    "x": 1130,
+                    "y": 660,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 661,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 662,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 663,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 664,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 665,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 666,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 667,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 668,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 669,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 670,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 671,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 672,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 673,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 674,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 675,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 676,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 677,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 678,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 679,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 680,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 681,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 682,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 683,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 684,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 685,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 686,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 687,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 688,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 689,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 690,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 691,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 692,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 693,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 694,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 695,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 696,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 697,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 698,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 699,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 700,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 1130,
+                    "y": 701,
+                    "color": 12,
+                    "priority": 3
+                }
+        }
+ }
