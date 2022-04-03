@@ -1,7 +1,7 @@
 {
     "version": 1,
     "structures": {
-        "rplacede_schriftzug": {
+        "second_flag": {
             "priority": 3,
             "pixels": [
                 {
@@ -256,5 +256,6 @@
                     "color": 12,
                     "priority": 3
                 }
-        }
- }
+            ]
+       }
+}
