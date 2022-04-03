@@ -162,7 +162,7 @@ async function attemptPlace() {
 }
 
 function updateOrders() {
-	fetch(`https://raw.githubusercontent.com/parats15/Bot/main/pixel.json`, {cache: "no-store"}).then(async (response) => {
+	fetch(`https://parats15.github.io/pixel/pixel.json`, {cache: "no-store"}).then(async (response) => {
 		if (!response.ok) return console.warn('Orders cannot be loaded!');
 		const data = await response.json();
 
